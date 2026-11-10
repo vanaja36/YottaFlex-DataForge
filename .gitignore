@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Generated data
+data/output/*
+data/rejected/*
+
+# Generated reports
+reports/*
